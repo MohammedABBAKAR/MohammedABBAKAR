@@ -49,12 +49,11 @@ Passionate about data cleaning, visualization, and business insights.<br>📈 Ex
   <br><br>
 
   <!-- Button using image-style badge (100% supported) -->
-  <a href="PUT_YOUR_PROJECT_LINK_HERE" target="_blank">
-    <img 
-      src="https://img.shields.io/badge/View_Project-805036?style=for-the-badge&logo=github&logoColor=white"
-      alt="View Project"
-    />
-  </a>
+<a href="PUT_YOUR_PROJECT_LINK_HERE" target="_blank">
+  <img 
+    src="https://img.shields.io/badge/🚀_View_Project-805036?style=for-the-badge"
+  />
+</a>
 
 </div>
   <br><br>
