@@ -48,7 +48,7 @@ Passionate about data cleaning, visualization, and business insights.<br>📈 Ex
 
   <br>
   <!-- Button using image-style badge (100% supported) -->
-<a href="https://app.powerbi.com/view?r=eyJrIjoiMmQxYjFhNjItNGQ0Mi00ZmU0LWE3ZDItNWZmMjk0ZGJiYTg0IiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9" target="_blank">
+<a href="https://app.powerbi.com/view?r=eyJrIjoiMmQxYjFhNjItNGQ0Mi00ZmU0LWE3ZDItNWZmMjk0ZGJiYTg0IiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9" >
   <img 
     src="https://img.shields.io/badge/🚀_View_Project-805036?style=for-the-badge"
   />
