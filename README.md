@@ -3,7 +3,7 @@
      Data Analyst - Clean Version
 ========================== -->
 
-<div align="center">
+<div align="">
 
   <!-- Replace with your profile image -->
 <div align="center">
