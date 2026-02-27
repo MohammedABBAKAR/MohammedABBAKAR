@@ -21,13 +21,6 @@
 
 </div>
 
-  <h1>Hi, I'm <span>Your Name</span> 📊</h1>
-
-  <p>
-    <strong>Data Analyst</strong> | Turning Data into Insights <br/>
-    <strong>Location:</strong> Your City, Country <br/>
-    <strong>Open to Opportunities:</strong> Yes / No
-  </p>
 
 # 💫 About Me:
 Passionate about data cleaning, visualization, and business insights.<br>📈 Experienced in transforming raw data into actionable dashboards.<br>🔍 Strong analytical thinking and problem-solving skills.<br>📚 Currently improving skills in Machine Learning & Advanced SQL.
