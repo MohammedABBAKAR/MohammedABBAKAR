@@ -36,24 +36,7 @@ Passionate about data cleaning, visualization, and business insights.<br>📈 Ex
 
 <div align="center">
 
-  <!-- Project Image -->
-  <img
-    src="https://raw.githubusercontent.com/MohammedABBAKAR/MohammedABBAKAR/master/Design%20sans%20titre.png"
-    width="90%"
-  />
-<a href="PUT_YOUR_PROJECT_LINK_HERE" target="_blank"
-   style="
-     display:inline-block;
-     background-color:#805036;
-     color:white;
-     padding:12px 30px;
-     border-radius:8px;
-     text-decoration:none;
-     font-weight:bold;
-     font-size:16px;
-   ">
-   View Project 🚀
-</a>
+ 
 <h2 align="center">📊 Featured Project</h2>
 
 <div align="center">
