@@ -36,7 +36,7 @@ Passionate about data cleaning, visualization, and business insights.<br>📈 Ex
 <div align="center">
 
  
-<h2 align="center">📊 Featured Project</h2>
+<h2 align="center">📊 Pharma Sales Profitability Report</h2>
 
 <div align="center">
 
