@@ -43,24 +43,6 @@ Passionate about data cleaning, visualization, and business insights.<br>📈 Ex
   />
 
   <br><br>
-
-  <!-- Project Button -->
-  <a href="PUT_YOUR_PROJECT_LINK_HERE" target="_blank">
-    <button style="
-      background-color:#805036;
-      color:white;
-      padding:12px 28px;
-      border:none;
-      border-radius:8px;
-      font-size:16px;
-      font-weight:bold;
-      cursor:pointer;
-    ">
-      View Project 🚀
-    </button>
-  </a>
-
-</div>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MohammedABBAKAR&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=MohammedABBAKAR&theme=dark&hide_border=false)<br/>
