@@ -46,8 +46,7 @@ Passionate about data cleaning, visualization, and business insights.<br>📈 Ex
     width="90%"
   />
 
-  <br><br>
-
+  <br>
   <!-- Button using image-style badge (100% supported) -->
 <a href="PUT_YOUR_PROJECT_LINK_HERE" target="_blank">
   <img 
