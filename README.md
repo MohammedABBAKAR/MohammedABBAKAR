@@ -60,10 +60,8 @@ Passionate about data cleaning, visualization, and business insights.<br>📈 Ex
 <div align="center">
 
   <!-- Project Image -->
-  <img
-    src="https://raw.githubusercontent.com/MohammedABBAKAR/MohammedABBAKAR/master/Design%20sans%20titre.png"
-    width="90%"
-  />
+ <img width="1200" height="1200" alt="Purple Artsy Quote LinkedIn Post" src="https://github.com/user-attachments/assets/08266c2c-e438-448e-a9c8-73b80cfa5753" />
+
 
   <br>
   <!-- Button using image-style badge (100% supported) -->
