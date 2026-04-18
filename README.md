@@ -60,7 +60,8 @@ Passionate about data cleaning, visualization, and business insights.<br>📈 Ex
 <div align="center">
 
   <!-- Project Image -->
- <img width="1200" height="1200" alt="Purple Artsy Quote LinkedIn Post" src="https://github.com/user-attachments/assets/08266c2c-e438-448e-a9c8-73b80cfa5753" />
+<img width="1920" height="1280" alt="projet 2" src="https://github.com/user-attachments/assets/4759eb20-9a44-4324-8311-4b6500e309bd" />
+
 
 
   <br>
