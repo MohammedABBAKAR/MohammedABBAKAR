@@ -59,6 +59,8 @@ Passionate about data cleaning, visualization, and business insights.<br>📈 Ex
   
 <div align="center">
 
+<h2 align="center">📊 Sales-Performance-Dashboard-Power-BI</h2>
+
   <!-- Project Image -->
 <img width="1920" height="1280" alt="projet 2" src="https://github.com/user-attachments/assets/4759eb20-9a44-4324-8311-4b6500e309bd" />
 
