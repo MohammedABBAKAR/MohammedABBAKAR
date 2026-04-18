@@ -72,7 +72,7 @@ Passionate about data cleaning, visualization, and business insights.<br>📈 Ex
 
 </a>
 
-<a href="https://app.powerbi.com/view?r=eyJrIjoiMmQxYjFhNjItNGQ0Mi00ZmU0LWE3ZDItNWZmMjk0ZGJiYTg0IiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9" >
+<a href="https://github.com/MohammedABBAKAR/Sales-Performance-Dashboard-Power-BI" >
   <img 
     src="https://img.shields.io/badge/🚀_View_Project-805036?style=for-the-badge"
   />
