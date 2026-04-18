@@ -57,6 +57,25 @@ Passionate about data cleaning, visualization, and business insights.<br>📈 Ex
 </div>
   <br><br>
   
+<div align="center">
+
+  <!-- Project Image -->
+  <img
+    src="https://raw.githubusercontent.com/MohammedABBAKAR/MohammedABBAKAR/master/Design%20sans%20titre.png"
+    width="90%"
+  />
+
+  <br>
+  <!-- Button using image-style badge (100% supported) -->
+<a href="https://app.powerbi.com/view?r=eyJrIjoiMmQxYjFhNjItNGQ0Mi00ZmU0LWE3ZDItNWZmMjk0ZGJiYTg0IiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9" >
+  <img 
+    src="https://img.shields.io/badge/🚀_View_Project-805036?style=for-the-badge"
+  />
+</a>
+
+</div>
+  <br><br>
+  
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MohammedABBAKAR&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=MohammedABBAKAR&theme=dark&hide_border=false)<br/>
